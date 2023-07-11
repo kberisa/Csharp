@@ -1,0 +1,15 @@
+D:\GitHub\Csharp\Consola01\Zadaca02\bin\Debug\net6.0\Zadaca02.exe
+D:\GitHub\Csharp\Consola01\Zadaca02\bin\Debug\net6.0\Zadaca02.deps.json
+D:\GitHub\Csharp\Consola01\Zadaca02\bin\Debug\net6.0\Zadaca02.runtimeconfig.json
+D:\GitHub\Csharp\Consola01\Zadaca02\bin\Debug\net6.0\Zadaca02.dll
+D:\GitHub\Csharp\Consola01\Zadaca02\bin\Debug\net6.0\Zadaca02.pdb
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.csproj.AssemblyReference.cache
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.AssemblyInfoInputs.cache
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.AssemblyInfo.cs
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.dll
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\refint\Zadaca02.dll
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.pdb
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\Zadaca02.genruntimeconfig.cache
+D:\GitHub\Csharp\Consola01\Zadaca02\obj\Debug\net6.0\ref\Zadaca02.dll
