@@ -154,4 +154,27 @@
 
 //************************************************************************************
 
+//////////// Program unosi 2 broja
+//////////// Ako su oba broja parni
+//////////// ispisuje njihov zbroj
+//////////// inače ispisuje njihovu razliku
 
+//Random c = new Random();
+//int d = c.Next(1, 99999);
+
+//Random e = new Random();
+//int f = e.Next(1, 99999);
+//int g = (d + f);
+//int h;
+//h = Math.Abs(d - f);
+//Console.WriteLine(d);
+//Console.WriteLine(f);
+
+//if (d % 2 == 0 && f % 2 == 0)
+//{
+//    Console.WriteLine(g);
+//}
+//else
+//{
+//    Console.WriteLine(h);
+//}
