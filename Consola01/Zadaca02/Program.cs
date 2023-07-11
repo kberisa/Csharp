@@ -8,6 +8,13 @@
 //Console.WriteLine(broj);
 
 //*********************************************************************
+
+////////// 1. zadatak
+////////// Korisnik unosi cijeli broj
+////////// Za broj manji od 10
+////////// ispisuje se Osijek
+////////// inače se ispisuje Donji Miholjac
+
 //int b;
 
 //Console.Write("Unesi broj: ");
@@ -23,6 +30,11 @@
 
 //********************************************************************
 
+////////// 2. zadatak
+////////// Korisnik unosi cijeli broj
+////////// Program ispisuje da li je 
+////////// paran ili nije
+
 //int g;
 //Console.Write("Unesi cijeli broj: ");
 
@@ -31,6 +43,13 @@
 //Console.WriteLine("12: Broj je " + (g % 2 == 0 ? "" : "Ne") + "paran");
 
 //**********************************************************************
+
+////////// 3. zadatak
+////////// Za dva unesena cijela broja
+////////// program ispisuje Osijek
+////////// ako je zbroj veći od 10
+////////// inače ispisuje Edunova
+
 //int pb;
 //int db;
 //Console.Write("Unesi prvi broj: ");
@@ -52,6 +71,9 @@
 
 //**************************************************************************
 
+//////////// Za unesena dva cijela broj
+//////////// program ispisuje veći
+
 //int b1;
 //int b2;
 
@@ -71,6 +93,9 @@
 //}
 
 //*****************************************************************************
+
+//////////// Za upisana 3 cijela broja
+//////////// program ispisuje najveći
 
 //int b1;
 //int b2;
@@ -99,8 +124,11 @@
 
 //*********************************************************************************
 
-
-
+////////// program unosi broj između 
+////////// 1 i 999
+////////// U slučaju da je izvan tog raspona
+////////// ispisati grešku i prekinuti program
+////////// Program ispisuje 1. znamenku upisanog broja
 
 //{Random i = new Random();
 
@@ -110,7 +138,7 @@
 
 //    while (true)
 //    { 
-        
+
 //        if (r > 999)
 //         {
 //            Console.WriteLine("Greska");
@@ -125,4 +153,5 @@
 //    }
 
 //************************************************************************************
+
 
